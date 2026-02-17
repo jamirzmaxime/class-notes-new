@@ -1,6 +1,8 @@
 body {
     background-color: rgb(70, 70, 70);
-    color: white
+    color: white;
+    margin: 50px 50px;
+    font-family: sans-serif;
 }
 .highlight { 
     background-color: rgb(255, 187, 0);
